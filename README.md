@@ -1,4 +1,4 @@
-# Webpack Starter
+# Administrador de tareas por hacer
 
 Este es el proyecto inicial para crear aplicaciones utilizando webpack, es el esqueleto de  estas.
 Se tiene un archivo para ejecutar en produccion, se ejecuta con:
